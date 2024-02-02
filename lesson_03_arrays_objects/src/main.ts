@@ -91,7 +91,7 @@ let car : Car = {
 
 // Enums
 enum Grade {
-    U,
+    U = 1,
     D,
     C,
     B,
